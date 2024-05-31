@@ -7,7 +7,7 @@ st.markdown(
     """
     <style>
     .main {
-        background-image: url('1523357214phpZvAjQy.jpeg');
+        background-image: url('https://images.shiksha.com/mediadata/images/1523357214phpZvAjQy.jpeg');
         background-size: cover;
         padding: 20px;
     }
