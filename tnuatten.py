@@ -80,7 +80,7 @@ def generate_otp():
 def login_page():
     st.title('🔐 TNU_ATTENDANCE - Login')
 
-    st.image('images.png', width=350)  # Add your logo URL here
+    st.image('images.png', width=300)  # Add your logo URL here
 
     # Login form
     name = st.text_input('Name')
