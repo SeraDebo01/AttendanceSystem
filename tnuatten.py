@@ -2,6 +2,7 @@ import streamlit as st
 import random
 import datetime
 
+headers = { "authorization": st.secrets{"api_key"}}
 # Custom CSS for background image and text color
 st.markdown(
     """
