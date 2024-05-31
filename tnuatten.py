@@ -7,7 +7,7 @@ st.markdown(
     """
     <style>
     .main {
-        background-image: url('https://images.shiksha.com/mediadata/images/1523357214phpZvAjQy.jpeg');
+        background-image: url('1523357214phpZvAjQy.jpeg');
         background-size: cover;
         padding: 20px;
     }
@@ -80,7 +80,7 @@ def generate_otp():
 def login_page():
     st.title('🔐 TNU_ATTENDANCE - Login')
 
-    st.image('E:\images.png', width=200)  # Add your logo URL here
+    st.image('images.png', width=350)  # Add your logo URL here
 
     # Login form
     name = st.text_input('Name')
